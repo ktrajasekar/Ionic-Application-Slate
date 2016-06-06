@@ -8,8 +8,6 @@ Just create an folder paste all files in your directory and start work on Ionic.
 
 Angular ng-route included for Single page application. 
 
-Android and Ios platforms are added for hybrid. 
+Android and iOS platforms are added for hybrid. 
 
 If any isuse please raise a issues. 
-
-Thanks
